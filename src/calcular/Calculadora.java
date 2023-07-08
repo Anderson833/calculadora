@@ -22,7 +22,7 @@ public class Calculadora extends javax.swing.JFrame {
 
     
    
-  // variável para armazenar o simbolo de cada um das operação da matemática 
+  // variável do tipo char para armazenar o simbolo de cada um das operação da matemática 
    char  sinal;
     @SuppressWarnings("unchecked")
     // <editor-fold defaultstate="collapsed" desc="Generated Code">//GEN-BEGIN:initComponents
